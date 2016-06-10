@@ -7,10 +7,10 @@ import java.util.Map;
  * A list of commands for the Ethereum network protocol.
  * <br>
  * The codes for these commands are the first byte in every packet.
- * ÐΞV
+ * DΞV
  *
  * @see <a href="https://github.com/ethereum/wiki/wiki/%C3%90%CE%9EVp2p-Wire-Protocol">
- * https://github.com/ethereum/wiki/wiki/ÐΞVp2p-Wire-Protocol</a>
+ * https://github.com/ethereum/wiki/wiki/DΞVp2p-Wire-Protocol</a>
  */
 public enum P2pMessageCodes {
 
